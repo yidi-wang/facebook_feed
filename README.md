@@ -20,7 +20,7 @@ Template code is provided in the `facebook_feed.ipynb` notebook file
 
 ## Run
 
-In a terminal or command window, navigate to the top-level project directory `Facebook_Feed/` (that contains this README), and run one of the following commands:
+In a terminal or command window, navigate to the top-level project directory `facebook_feed/` (that contains this README), and run one of the following commands:
 
 ```bash
 ipython notebook facebook_feed.ipynb
